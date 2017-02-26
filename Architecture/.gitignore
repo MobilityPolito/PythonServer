@@ -1,0 +1,8 @@
+*.pyc
+*.pyc~
+*.py~
+*.log
+*.png
+*.txt
+MELLIA4.py
+agg_per_week.py
